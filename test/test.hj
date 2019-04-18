@@ -1,0 +1,9 @@
+<htjava>
+	<var> <int> inteiro </var>
+	<var inteiro > 20 </var>
+	<var> <char> caractere </var>
+	<var caractere >  'a' </var>
+	<var caractere > 2 </var>
+	<var inteiro > "texto" </var>
+
+</htjava>
